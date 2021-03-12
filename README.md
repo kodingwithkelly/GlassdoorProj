@@ -1,24 +1,31 @@
-# Glassdoor Data Analyst Study Guide, EDA, and Salary Estimator: Project Overview 
+# Glassdoor Data Analyst Essential Knowledge Guide: Project Overview 
 * Web scraped 20 pages of Glassdoor using BeautifulSoup and Selenium to obtain 200 interview questions from 146 companies to create a study guide and scraped 1000 data analyst job postings to visualize trends.
-* Analyzed essential data analytics job skills with NLP techniques: Word2Vec and Topic Modeling.
-* Cleaned and preprocessed data using Pandas and NumPy and visualized trends using Seaborn and Matplotlib. **(In progress)**
+* Cleaned and preprocessed data using Pandas and NumPy 
+* Analyzed essential data analytics job skills with NLP techniques: Word2Vec, Topic Modeling with LDA, and Rule-Based Matching
+* Explored the data and created visualizations using Seaborn and Matplotlib. **(In progress)**
 * Developed a model using sklearn to estimate data analyst salaries. **(In progress)**
 
 ## Conclusion
 
 
 ## Code and Resources Used 
-**Packages:** selenium, beautifulSoup, time, pandas, numpy, pyLDAvis, gensim, nltk, re, pprint, matplotlib, seaborn
+**Packages:** selenium, beautifulSoup, time, pandas, numpy, pyLDAvis, gensim, nltk, re, pprint, spacy, collection, matplotlib, seaborn
 
 **Project Inspiration:** 
 
-https://github.com/PlayingNumbers/ds_salary_proj
+https://github.com/PlayingNumbers/ds_salary_proj (Ken Jee)
 
 **Web Scraping and Login Code:** 
 
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
 https://github.com/williamxie11/glassdoor-interview-scraper/blob/master/scraper_v1.2.py
+
+**Useful guides:**
+
+https://www.machinelearningplus.com/spacy-tutorial-nlp/#phrasematcher (Shrivarsheni, spaCy tutorial)
+
+https://www.youtube.com/watch?v=Otde6VGvhWM (Krish Naik, word2vec tutorial)
 
 
 ## Web Scraping
