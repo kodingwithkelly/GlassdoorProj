@@ -1,0 +1,40 @@
+Statistics,Machine Learning,R,Python,Data Engineering,Business,Tools
+bayesian inference,ai,dplyr,bokeh,algorithms,administration,chartio
+bayesian statistics,classification,ggplot,matplotlib,apache,agile,data studio
+forecasting,clustering,knitr,numpy,aws,communication,excel
+hypothesis testing,data mining,lubridate,pandas,azure,data analysis,git
+math,decision trees,r,plotly,backend,goverance and compliance,google analytics
+normal distribution,deep learning,shiny,python,big data,business intelligence,java
+probability,ensemble models,tidyr,scikitlearn,cloud computing,problem solving,jupyter
+scientific method,feature engineering,tidyverse,scipy,cloud management,product design,looker
+statistical modeling,keras,,scipy,data cleaning,project management,matlab
+statistics,knn,,seaborn,data collection,report,mode
+structured data,logistic regression,,sklearn,data management,testing,outlook
+unstructured data,machine learning,,,data quality,,power bi
+,naive bayes,,,data warehouse,,powerpoint
+,nlp,,,database administration,,sas
+,optimization,,,database management,,software development
+,predictive modeling,,,databrick,,tableau
+,preprocessing,,,docker,,visualization
+,random forest,,,frontend,,
+,regression,,,google big query,,
+,support vector machines,,,hadoop,,
+,svd,,,hive,,
+,svm,,,kubernetes,,
+,svr,,,mongodb,,
+,tensor flow,,,ms sql,,
+,time series,,,nosql,,
+,,,,postgres,,
+,,,,scala,,
+,,,,spark,,
+,,,,sql,,
+,,,,teradata,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
