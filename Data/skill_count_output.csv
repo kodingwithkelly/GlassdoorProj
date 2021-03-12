@@ -3,12 +3,14 @@ sql,448
 regression,33
 time series,11
 statistics,213
+computer science,222
 excel,326
 power bi,117
 testing,136
 problem solving,206
 communication,357
 data analysis,271
+engineering,178
 data management,125
 forecasting,45
 powerpoint,78
@@ -25,6 +27,7 @@ business intelligence,124
 python,223
 google analytics,34
 data mining,95
+etl,98
 report,144
 agile,71
 ms sql,21
@@ -47,11 +50,13 @@ ai,23
 shiny,5
 docker,3
 aws,32
+salesforce,51
 algorithms,40
 machine learning,77
 hypothesis testing,7
 naive bayes,1
 svm,1
+wrangling,10
 pandas,16
 jupyter,6
 statistical modeling,8
