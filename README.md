@@ -2,7 +2,7 @@
 * Web scraped 20 pages of Glassdoor using BeautifulSoup and Selenium to obtain 200 interview questions from 146 companies to create a study guide and scraped 1000 data analyst job postings to visualize trends.
 * Cleaned and preprocessed data using Pandas and NumPy 
 * Analyzed essential data analytics job skills with NLP techniques: Word2Vec, Topic Modeling with LDA, and Rule-Based Matching
-* Explored the data and created visualizations using Seaborn and Matplotlib. **(In progress)**
+* Explored the data and created visualizations using Seaborn and Matplotlib.
 * Developed a model using sklearn to estimate data analyst salaries. **(In progress)**
 
 ## Conclusion
@@ -61,7 +61,12 @@ After web scraping and discovering the data I had, I made the following changes:
   * Added categories for the type of questions. **(In progress)**
   
 ## EDA
-Below are a few graphs from my EDA. **(In Progress)**
+Below are a few graphs from my EDA. 
+
+![alt text](https://github.com/kodingwithkelly/GlassdoorProj/blob/main/Readme_pngs/LDA.png "LDA")
+![alt text](https://github.com/kodingwithkelly/GlassdoorProj/blob/main/Readme_pngs/distribution_salary.png "Distribution Salary")
+![alt text](https://github.com/kodingwithkelly/GlassdoorProj/blob/main/Readme_pngs/listing_map.png "Map of Listings")
+![alt text](https://github.com/kodingwithkelly/GlassdoorProj/blob/main/Readme_pngs/size_count.png "Size Count")
 
 ## Future Work
 
