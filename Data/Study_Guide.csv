@@ -1,0 +1,201 @@
+name,interview questions
+ATF,"The interview question was about my previous jobs, skill set, management skills and previous office related job responsible. The interview last about a hour and half."
+Acclaris,"Most difficult questions were related to SQL specifically. They want a senior PL/SQL developer and not just a basic SQL user as it was mentioned on job description. Nested queries, decoding SQL queries."
+Amazon,"how did you analyze data? Who uses your data analysis results? how large is the data set you work with? sql question one: the first table is customer purchase table, with five columns, customer id, purchase date, product id, unit price, unit purchased, write queries to retrieve data with unique customer id that made over $100 purchase in the past seven days. sql question two: a second table is the customer details table, with two columns, customer id, registration date, write queries to retrieve data with unique customer id that made over $100 purchase who registered in the past ten days. probability question: what is the probability of generating ten consecutive numbers in ascending order out of 100 numbers? this is a random number generation question."
+American Express,How many quarters at any given time are in a shopping mall how where are they located?
+American Greetings,Tell me about what makes me stand out from other potential applicants.
+American Power and Gas,Write Queries using Join
+Apple,What makes you different from the other analysts?
+Arch Capital,Do you have experience in Data Modeling?
+Argus Information & Advisory Services,What is interchange?
+Assured Guaranty,"GO's are typically viewed as the safest of bonds, do you feel that there is such a thing as a full proof bond?"
+Availity,Tell me about yourself
+Bell Info Solutions,How do you troubleshoot performance problems in SQL Server?
+Benchmark Education,"They asked me to do a Excel Test, without telling me beforehand of it."
+Benefit Cosmetics,Revenues and page views are down for the eCommerce site. What things would you look into to figure out why?
+Biotechnology Innovation Organization,What's your experience with conventions and exhibitions.
+Bird,"Basic phone interview asking about experience, why would be a good fit, etc. Then a technical challenge"
+Bird,Find for each day what is the number of “Birds” (their product) what is the net PROFIT
+Bird,Day over day profit per day
+Bird,Find for each day what is the number of “Birds” (their product) what is the net PROFIT
+BlackRock,Most of the questions were regarding my work experience so far. And a few logic questions like what is the angle between the hours hand and minutes hand when the time is 3:15; How do I identify which switch corresponds to which light bulb when the switches are in one room and the bulbs are in another and given that I can enter the room with bulbs only once.
+Bloomberg L.P.,Where would you put a coffee machine in a car? How do you explain a vending machine to someone who hasn't seen or used one before?
+Bloomberg L.P.,Where would you put a coffee machine in a car? How do you explain a vending machine to someone who hasn't seen or used one before?
+Bloomberg L.P.,What is one issue with big data today? And how would you solve it?
+Bloomberg L.P.,What does the following code produce? Why Bloomberg? Why are you interested in Finance? What do you look for when you invest in a company? (I interviewed for the equities team)
+Bloomberg L.P.,What does our market data analyst do?
+Bloomberg L.P.,"If you are not Japanese, they will ask you to read some random Japanese newspaper."
+Blue Apron,How I would plan meals
+Blue Cross and Blue Shield Association,Strengths and Weakness
+Bridgewater Associates,Do you approve of abortion?
+CFA Institute,Your internship experience and software-using experience.
+CMC,What is EBITDA?
+CME Group,"How to short vega and long gamma, or short gamma and long vega using European call options only?"
+CME Group,What are the differences between Python and C++?
+COTA,Tell me about vlookup function in Excel. What would be the substitute functions for vlookup?
+Caesars Entertainment,What is your experience with scraping algorithms.
+Calpine,"Ridiculous questions like; Before Mt. Everest was discovered, what was the tallest mountain in the world?"
+Capital One,Describe a time when you had to use persuasion to influence other's opinions.
+Capital One,Wheat harvesting case using tractor and calculating break even point. Campaign success measurement - using alpha beta testing.
+Capital One,"A coding company with a new contract. Divided in two cases : 1. short-term contract, 2. long-term contract It was desired to see how the company should deal with the new contract."
+Capital One,"The case studies were business situations about offering customers incentives, market segmentation analyses, calculating expected profits, break-even quantities, and deciding on a final course of business action."
+Capital One,Check deposit case
+Capital One,References?
+Capital One,"Case 1: Given APR, Interchange fee, Avg monthly balance, Avg spend every month, and loss rate of 3% calculate the profit per customer. Now justify if it is profitable to give cash back to the customers.. Case 2: 2 ways of campaigning for credit cards 1. Email - 10% of applicants become customers - each representative can verify 10 email applications in an hr and is paid $25/hr 2. Chat - 20% of applicants become customers - each representative can respond to 4 applications in an hr and is paid $25/hr Profit per customer in both the cases in $100. which one is profitable email or chat. Draw the graph of profit vs no of applicants Consider a scenario where there are only 5 representatives to handle applications. In this case which one is more profitable email or chat. calculate the breakeven point for the no of representatives where chat will be profitable than email."
+Capital One,"case study: credit card insurance profit per customer cost of mailing $0.5, response rate 1%, average balance per month $1000, insurance charges 1% of average balance monthly, customer claim rate 5% (once insured customer files a claim, the balance will be wiped and C1 lose $1000). Question: profit per customer, graph claim rate vs response rate, graph profit vs response rate and find the response rate for maximum profit (r=1%)"
+Capital One,There were 2 rounds of case interviews and 1 round for presentation of the Data Challenge that I passed before the 1:1 interview
+Capital One,"Prepare 6-7 situations for behavioral questions and be flexible if they questions is not asked in the way as you are prepared. Try to find the character they asked from your prepared examples. Cases are easy, if you make mistake and feel your answer is awkward, ask for help and modify your calc. I did make a mistake. It was a typo carried to next step's calc. And I found out and asked for help, and found out what's wrong with the formula I wrote."
+Capital One,"A time you avoided an obstacle, A time you had to learn something new, Third one was something along the lines of: A time you had to request extra help to complete a project/task"
+Capital One,"Suppose you take out a loan of $3000 for 1 year. If the loan has an interest of 2% for the first 5 months and 14% for the rest of the year, how much interest will you have to pay by the end of the year?"
+Capital One,An ATM makes $2 per customer for 30% of its customers. Each time a customer uses the ATM it costs 2cents. The ATM servicing costs $3000. What is the break even point for this ATM?
+Capital One,"Case interview: basic business problem (if product X costs Capital One $4.00 per unit, with a $800 sunk cost, and we charge X amount of dollars along with a $10 annual fee, how many do we need to sell to break even, etc). Followed by a longer discussion of more complex problems that the situation might entail."
+Capital One,phone screening- Five 5th grade level mathematical questions Onsite interview- basic behavioral questions
+Capital One,what's your most proud project?
+Capital One,"They check for your attitude, your approach and your anxiety level! I solved both the case studies and I know I rocked the behavioral and Data challenge round, but still didn't ended up not being selected, why?"
+Capital One,"One of the questions from the second behavioral interviews: ""Tell us about a time (job-related) when you made an unpopular decision, and despite everybody's doubts, your decision turned out to be the right one."""
+Capital One,Tell me about a time you...(behavioral)
+Capital One,"Nothing is unexpected, but you need be well prepared in order to show what you got in the way they are expecting."
+CareDash,There are 100 doors in a building and 100 people outside. The first person goes in and opens every door. The second person goes in and closes every second door. The third person goes in and opens every third door. Which doors are the ones opened in the end?
+CareDash,"if you have a cancer detection test and a population of 10000. This test has 98% accuracy and you know 0.5 of the population has cancer, what is the probability of the test telling people that have cancer that they actually have cancer."
+Careem,sql questions
+Castlight,Technical questions about SQL
+Centene,When would you use linear regression instead of logistic regression
+Chewy,Tell me about a time you came up with a creative/innovative idea to a high pressure situation
+Children's Healthcare of Atlanta,Basic questions and listened to career history.
+Children's Hospital of Philadelphia,Tell me about your life story.
+Citi,Why do you want to work here?
+Clearwire,Describe your experience with databases?
+Colas,Vlookup
+Colas,How comfortable are you with creating your own data sets from scratch?
+Comscore,Excel sheets full of numbers. you are expected to identify the important issues in those sheets.
+Coupang,"Various business and SQL questions, I get the feeling these change for each candidate and in any case I don't remember them."
+Cox Communications,Why did you decide to look for employment?
+Crossix Solutions Inc.,Case study
+Data Migration Resources,Do you have any experience with SAP or data migration?
+Data Migration Resources,What do you think you'll struggle with in this position?
+Dealer.com,Can you add 1-100 together right now? Do this by adding 1+2+3 etc all the way to 100.
+DecisionOne,"Asked about my preferred direction in the company, managerial vs. technical."
+Diversified Investment Advisors,What school work have you completed that is relevant to this position?
+Donnelley Financial Solutions (DFIN),Tell about any interesting data science project that I have worked on
+DraftKings,They gave me a hypothetical fantasy sports game and asked me to find the appropriate prize pool for the game
+DraftKings,"Phone Interview #2 You are playing a game of baseball. There are two outs in the bottom of the ninth, and you are down by one run. You are currently a baserunner on first base. [Obviously, you must score or else the game ends]. A)You are trying to figure out if you should steal second base or not. What kind of information do you need to know to inform this decision? B) Every batter in your lineup has identical odds.They get a single 50% of the time and they strike out 50% of the time. If you are on first base, you cannot score on a single. If you are on second, you are guaranteed to score on a single. You successfully steal 75% of the time. Should you steal? [I may be missing some of the nonsense here, but this is all the relevant information] C) It turns out the pitcher acts a bit differently with a runner on second [regardless of who the batter is] and no other runners on base. Under these circumstances, he is 50% to strike them out, 40% to surrender a walk, and 10% to surrender a hit. How does this change things/ should you steal?"
+E*TRADE Financial,Case Study
+E*TRADE Financial,What kind of salary are you expecting?
+ENGIE,What do you do to people that are serving on you in a restaurant?
+EY,What is the angle between the hour and minute hand at 3:15.
+Edison Software,What is your confidence level in certain programs
+Enova,Estimate how many shoes can be sold in US in one year?
+Enova,"If you have a 5*5*5 cubic, what is the outside surface area?"
+Enova,Estimate how many shoes can be sold in US in one year?
+Enterprise Peak,Why are manhole covers round?
+Equifax,"Tell me about yourself , Experience etc."
+FXDD,A frog falls down a well of 50ft. Each day he climbs up 3 and each night falls down 2. How many days does it take him to get out?
+Facebook,SQL Questions
+Facebook,"- Would you use union or union all if there were no duplicates? - Does creating a view in require storage in a database? - Tell me about a time you automated an otherwise manual process - Tell me about a time you started an analysis with certain expectations, and then got unexpected results - How would you measure X? Can you propose a plan to monetize from Y?"
+Fanatics,It was all situation based.
+Fashom,Business CAse studies on a phone interview.
+Federal Reserve Board,Tell me your experience working with large data sets.
+FieldEdge,"""I am an angry customer, I want to return the product because of lack of communication. I also feel misled""...how would you approach this situation?"
+Flatiron Health,why Flatiron ?
+Flexport,The sales team wants to have an estimate on how much Flexport should charge for a shipment from a port to a destination inland. How would you build a basic pricing model to price this shipment?
+Fund for the Public Interest,Tell me a time where you introduced a new process?
+Gallup,Do you get angry?
+Gonzales Consulting Services,What is the main reason for applying for this position?
+Google,"I was asked technical questions like how I would organize an excel spreadsheet with thousands of lines of information based on specific requirements marketing/marketing researchers need. Also, how I would I merge the information provided from a client, and information given by Tribune Media Services about media content."
+Google,"If you have 10 bags of marbles with 10 marbles each and one bag has marbles that weigh differently than the others, how would you figure it out from one weighing"
+Google,How many cans of blue paint were sold in the United States last year?
+Great Western Bancorp,"Tell me about yourself, career goals, and skills."
+Great-Circle Technologies,"Python and R, on a scale of 1-10 how would you rate your proficiency in these languages?"
+Grubhub,How would you go about modeling something?
+Guidehouse,"The average high temperature for x days is 70 degrees. the next day has a high temperature of 84 degrees, which raises the overall average to 72 degrees. what is the value of x"
+Guidehouse,"You have 8 marbles and a balance scale. One marble weighs more than the others, but you don’t know which one. How can you identify the heavier marble using only two weighs of the balance scale?"
+HCL Technologies,What qualifications do I have?
+HSW International,Do you know what a database is?
+Handshake,"Take home assignment: analyze a dataset, gather insights around a few guiding questions, generate a deck and present in front of the team"
+Headspace,Have you worked with Tableau before?
+Health Management Systems,What super-hero would you like to be.
+Hotel Engine,Write a query to find the 2nd highest value in dataset
+HubSpot,"""What made you like apply for this position?"" ""Awesome. Tell me, like, about yourself."" ""Awesome. Do you have any questions?"""
+Humana,Why humana ?
+Humana,Why humana ?
+Hydraforce,"Basically, he asked how I can manage the quite volume of data and he said eventually he will ask me to manipulate the data, which requires skillful knowledge of Excel."
+IEM,"Asked my ability to complete the tasks of the job, how I would complete them. Why are man hole covers round?"
+InComm,Why InComm of all places?
+Infant Solutions,How many hours do you work on excel. How many hours do you work competitors data and competitors analysis. How much time to prepare competitive reports. Etc
+IntegraFEC,How would you predict the price of a stock with the historical data of that stock's prices?
+IntegraFEC,How would you predict the price of a stock with the historical data of that stock's prices?
+Intuit,"How to calculate the average number of people in one family member, after survey by a call?"
+Joerns Healthcare,How familiar are you with APP's?
+John C. Fremont Healthcare,Do you know SQL? Do you know how to build a data warehouse?
+KPMG,Modeling a job assignment problem
+Kaplan,"What are 5 uncommon uses of a brick, not including building, layering, or a paper-weight?"
+Keap,Prepare a five slide deck of business insights from a set of their data.
+Liberty Mutual Insurance,What is your career path?
+LinkedIn,"Why do you want to work for LinkedIn, a lot of questions about my experiences on my resume, critical and analytical thinking questions"
+Lord Abbett & Co.,Tell me about your self
+Lord Abbett & Co.,Tell me about your self
+Lucid,"If we give you a data, which is not clean, how can you transfer it to a doable format?"
+Lyft,"What is the probability in a random sequence of H and T's, the subsequence HHT comes before HTT?"
+Lyft,How would you evaluate whether a 50% rider discount is a good or bad thing?
+Lyft,A lot of strategic discussion of Gigeconomy and rideshare data strategizes.
+MSB,What is your greatest work related weakness?
+MUFG,"""How did you like working for a Japanese company that couldn't speak English?"""
+MUFG,How do you hide data in Excel?
+MXenergy,What is the most difficult problem you have had to face at work and how you resolved it
+Maestro Technologies,"Around logistic regression, data cleaning, difference between data mining and data profiling"
+Marine Corps Community Services,Are you comfortable discussing death within data sets?
+Microsoft,"Before put the data into the model, what do you need to do?"
+Microsoft,I was aske to specify as many ways to return the rowcount in the table.
+Microsoft,I was asked about clustered or non-clustered indexes.
+Mission Pets,"You have three boxes marked C, D, and CD that contain products C, D, and CD. Each box label is wrong. By opening one box and extracting one product without looking at the contents, you can determine the contents of the other two boxes. From which box do you draw a product? Why?"
+MongoDB,"Write a script to return the word that appears the most in a string, and the number of times it appears"
+Moody's Corporation,Name a non-depreciated asset.
+Moody's Corporation,"Q. If you had to chose only one financial statement, which one would you choose?"
+Myriad Genetics,Where do you see yourself in ten years?
+NEA,Was I good with Microsoft applications?
+Natera,Who's your (previous company) stockholder? Do you know anything about stockholder?
+Oakland Unified School District,Give some examples of how you have used data in the past to answer questions or solve problems.
+Onewire,After what kind of companies would you go if we hire you?
+Optiver,"Two players are at deuce in a tennis match - player 1 has 60% of winning the point, player 2 has 40% chance. What are the odds of player 1 winning?"
+PCS Global Tech,Asked questions related to SQL and Databases
+PPG,They asked how I would deal with combative coworkers. And give examples.
+Pacific Headwear & Promotions,Tell me sth about yourself. Do you have any experience about this field? What is your highest education? your desired pay range.
+PayPal,Do you have any experience being a data analyst?
+Pear Therapeutics,Are you able to work these hours?
+Philips Arena,"Introduction, about the tools I had developed in my previous experience, the workflow of the job data analyst, explain data cleaning"
+Pluto TV,What's COPPA? What's UUID/idfa/VAST tag? What's confidence interval? What's t-test? What is this SQL query doing? Give me an example that you promised to finish a task by a certain date but you failed to finish it on time.
+Progressive Insurance,Tell me about a time that you had to get the resources / support of a person not directly in your control or functional group.
+Refinery29,Describe your previous role.
+Remedy Partners,How many hip replacement surgeries are going on in the U.S right now?
+Rocket Fuel,"Given a plot of land and $250,000, what can you do to maximize your revenue and what kinds of data would you look at to do so?"
+Sapphire Digital,9. You have decided to delete doctors that contained the name ‘John’ in their name. You have a function in the lib schema called item_remove where the first item in the function is the table and the second item is the provider_id. Write a shell script that will connect to the database and loop through the provider_id into the function.
+Sherwin-Williams,How did you handle a difficult team member in the past?
+Sikka Software,Q1. Describe the multiple linear regression.
+Spreetail,What's your most accomplishment?
+Square,"simple SQL like give me top 5 records, give me maximum date, etc"
+Swedish,How do you feel about data?
+T. D. Williamson,Where do you see yourself five years from now? Doesn't everyone ask this?
+Tata Consultancy Services,"Tell me about yourself Work experience SQL question 1. Explain JOIN 2. Drop, delete and Truncate difference 3. Write a query using a group by 4. Decode Function in SQL"
+Therapeutic Health Services,What would you bring to the company as an individual!? And what you think of this organization?
+TrialPay,Do you have experience in Hadoop?
+Trinity Financial Services,Describe yourself.
+U.S. Genomics,how do u update their flat seq files on a daily base?
+UW Medical Foundation,tell me how you solve problems
+Uber,What is the market size for Uber in the US in large cities? How many drivers are needed?
+Uber,"Given three tables, user_dimension (user_id and account_id), account_dimension (account_id and paying_customer), and download_facts (date, user_id, and downloads), find the average number of downloads for free vs paying customers broken out by day."
+Uber,"A car starts driving at 60 mph, one hour later a car leaves the same position going 80 mph. How much time will pass until the second car catches the first?"
+Uber,"Given a revenue transaction table that contains user_id, timestamp, and revenue, how would you find the third purchase of every user?"
+University of Utah,Do you have experience as a manager?
+Upstart,"A client told us 400/1million of our customers will die in the next month. In the next month, 450/1million of our customers died. How do we assess whether or not the model is okay?"
+Upstart,"Suppose we have two variables, X and Y, where Y = X + some normal white noise. We regress Y on X, what will our coefficient be? Then we regress X on Y, what happens?"
+Upstart,"Success and Speed are highly correlated, we have a great model for it, there is a strong relationship between them. When we take a bunch of athletes and compare their success and speed, there is no relationship. Why is this?"
+VSE,"Strengths & Weakness, working together as a team or individual, where I see myself in 3 and 5 years, How would past employer describe your work ethic."
+Valmet,"I was asked to talk about what irritates me. That particular question sticks out in my mind. They were very keen about my reply, too."
+Vizant,Have you read any of our glassdoor reviews?
+Washington Technology Solutions,Tell about a time you had to work with a confrontational employee.
+Wayfair,1. sql/programming
+Wayfair,"SQL problem easy programming language a/b test question data insight question,"
+WorldQuant,Sort lines in a txt file by one of the columns using shell scripting.
+Xavier University,What do you know about Jesuit educational philosophy?
+Yerba Buena Beverage,How can you judge yourself?
+Zynga,what&#039;s the angle of the 2 feet @ 3:15 on an analog watch.
