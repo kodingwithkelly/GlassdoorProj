@@ -6,8 +6,7 @@
 * Developed a Support Vector Regression model to estimate data analyst salaries with a mean absolute error of $12,700.
 
 ## Conclusion
-Streamlit app: kodingwithkelly/streamlit_glassdoor
-
+Streamlit app: https://share.streamlit.io/kodingwithkelly/streamlit_glassdoor/main/glassdoor_guide-app.py
 
 Currently California and New York have the highest number of listings for a mid-level data analyst with New York City having the most listings. Through a generated map, many of the listings are dispersed in the greater north east area of the United States. On the other hand, the top 2 companies offering data analyst jobs at the moment are Uline and Intuit which are big companies. Though smaller/mid-sized companies with a size of 1001-5000 are looking to grow their company with analysts. 
 
